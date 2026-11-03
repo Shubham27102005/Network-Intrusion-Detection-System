@@ -172,7 +172,7 @@ Potential improvements include:
 
 ## 👨‍💻 Author
 
-**Vaibhav Kumar Singh**
+**Shubham Saurabh**
 
 B.Tech CSE (AI/ML)  
 SRM Institute of Science and Technology
